@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ArrivalsPanelController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ArrivalsPanelController.cs" Line="13" Column="38" />
+      <File FileName="Assets/Scripts/MyTrackableEventHandler.cs" Line="18" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/david/UnityProjects/BusStop2/Assets/HttpClient/HttpActions/HttpPost.cs" line="22" column="1" />
+      <Breakpoint file="/Users/david/UnityProjects/BusStop2/Assets/Scripts/MyClass.cs" line="475" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
