@@ -27,4 +27,4 @@ To make it run you must do the steps as follow:
   
 It was developed on a Macbook Pro with Unity 5.4.2f2 and it was tested on Iphone 7 with iOS v10.3
 
-![](./app_screenshot.png)
+![](./app_screenshot.png) ![](./busstop_sample.png)
