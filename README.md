@@ -3,7 +3,7 @@ Augmented Reality app for Madrid EMT buses. This app shows an AR panel with the 
 
 ******************************
 
-Vuforia on itself doesn't provide any system to detect numbers, just letters. To solve this problem I thought on the next strategy:
+Vuforia on itself doesn't provide any system to detect numbers, just letters. To solve this problem I followed the next strategy (just for numbers near of a common image):
   1. Recognize the image
   2. Capture a Screenshot just after the target image is recognized (this screenshot must contain the number)
   3. Send the Screenshot to an OCR service and get the response
