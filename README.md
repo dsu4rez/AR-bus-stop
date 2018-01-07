@@ -1,4 +1,4 @@
-# madridbusstop
+# AR Bus Stop
 Augmented Reality app for Madrid EMT buses. This app shows an AR panel with the bus arrivals information of the recognized bus stop. Not published due to the need of pay the Vuforia license.
 
 ******************************
